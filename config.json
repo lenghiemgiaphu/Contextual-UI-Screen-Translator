@@ -1,0 +1,21 @@
+{
+  "hotkey_snip": "f8",
+  "hotkey_repeat": "f9",
+  "hotkey_history": "",
+  "tesseract_path": "",
+  "default_target": "Tiếng Hàn",
+  "ocr_profile": "Anh",
+  "mode": "line",
+  "fuzzy_threshold": 75,
+  "ocr_min_conf": 30,
+  "ocr_psm": 6,
+  "google_fallback": true,
+  "show_pinyin": true,
+  "pin_popup": false,
+  "keep_old_popups": false,
+  "auto_copy": false,
+  "save_capture": false,
+  "popup_opacity": 97,
+  "history_limit": 500,
+  "autostart": false
+}
